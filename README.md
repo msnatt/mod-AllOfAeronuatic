@@ -8,7 +8,7 @@ STEP 2 -- paste folder outside mods folder example.
 * mods
 
 &#x20;  |
-   |\_xxx.jar
+&#x20;  |\_xxx.jar
 
 &#x20;  |\_pointblank      <-- copy
 
@@ -27,7 +27,7 @@ STEP 2 -- paste folder outside mods folder example.
 * mods
 
 &#x20;  |
-   |\_xxx.jar
+&#x20;  |\_xxx.jar
 
 &#x20;  |\_pointblank
 
